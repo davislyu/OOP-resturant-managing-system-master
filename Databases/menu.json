@@ -1,0 +1,137 @@
+{
+  "menu_items": [
+    {
+      "name": "Simple pizza",
+      "price": 59.99,
+      "ingredients": [
+        {
+          "name": "cheeses",
+          "amount": 150.0,
+          "unit": "g"
+        },
+        {
+          "name": "tomato",
+          "amount": 5.0,
+          "unit": "unit"
+        },
+        {
+          "name": "olive oils",
+          "amount": 14.0,
+          "unit": "ml"
+        }
+      ]
+    },
+    {
+      "name": "Olive pizza",
+      "price": 54.99,
+      "ingredients": [
+        {
+          "name": "cheese",
+          "amount": 150.0,
+          "unit": "g"
+        },
+        {
+          "name": "tomato",
+          "amount": 3.0,
+          "unit": "unit"
+        },
+        {
+          "name": "olive oil",
+          "amount": 15.0,
+          "unit": "ml"
+        },
+        {
+          "name": "olive",
+          "amount": 10.0,
+          "unit": "unit"
+        }
+      ]
+    },
+    {
+      "name": "Tomato pizza",
+      "price": 40.0,
+      "ingredients": [
+        {
+          "name": "cheese",
+          "amount": 150.0,
+          "unit": "g"
+        },
+        {
+          "name": "tomato",
+          "amount": 3.0,
+          "unit": "unit"
+        }
+      ]
+    },
+    {
+      "name": "cake",
+      "price": 10.0,
+      "ingredients": [
+        {
+          "name": "flour ",
+          "amount": 10.0,
+          "unit": "g"
+        }
+      ]
+    },
+    {
+      "name": "pushi",
+      "price": 18.0,
+      "ingredients": []
+    },
+    {
+      "name": "sushi",
+      "price": 14.0,
+      "ingredients": [
+        {
+          "name": "fish",
+          "amount": 1.0,
+          "unit": "unit"
+        }
+      ]
+    },
+    {
+      "name": "pita",
+      "price": 10.0,
+      "ingredients": [
+        {
+          "name": "bread",
+          "amount": 1.0,
+          "unit": "unit"
+        }
+      ]
+    },
+    {
+      "name": "pita rehov",
+      "price": 99.0,
+      "ingredients": [
+        {
+          "name": "water",
+          "amount": 100.0,
+          "unit": "ml"
+        },
+        {
+          "name": "pita",
+          "amount": 1.0,
+          "unit": "unit"
+        }
+      ]
+    },
+    {
+      "name": "meat balls",
+      "price": 10.0,
+      "ingredients": [
+        {
+          "name": "meat",
+          "amount": 100.0,
+          "unit": "g"
+        },
+        {
+          "name": "chocolate",
+          "amount": 10.0,
+          "unit": "unit"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "ingredients": [
+    {
+      "name": "cheese",
+      "amount": -2800.0,
+      "unit": "g"
+    },
+    {
+      "name": "tomato",
+      "amount": 498.0,
+      "unit": "unit"
+    },
+    {
+      "name": "olive",
+      "amount": 50.0,
+      "unit": "unit"
+    },
+    {
+      "name": "mushrooms",
+      "amount": 500.0,
+      "unit": "unit"
+    },
+    {
+      "name": "olive oil",
+      "amount": 625.0,
+      "unit": "ml"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": 1000.0,
+      "unit": "g"
+    },
+    {
+      "name": "banana",
+      "amount": 300.0,
+      "unit": "unit"
+    },
+    {
+      "name": "banna",
+      "amount": 700.0,
+      "unit": "unit"
+    },
+    {
+      "name": "sauce",
+      "amount": 40.0,
+      "unit": "unit"
+    },
+    {
+      "name": "muszzi",
+      "amount": 100.0,
+      "unit": "g"
+    },
+    {
+      "name": "tabula",
+      "amount": 100.0,
+      "unit": "g"
+    },
+    {
+      "name": "banana",
+      "amount": 100.0,
+      "unit": "g"
+    },
+    {
+      "name": "banana",
+      "amount": 90.0,
+      "unit": "g"
+    },
+    {
+      "name": "kaka",
+      "amount": 10.0,
+      "unit": "g"
+    },
+    {
+      "name": "food",
+      "amount": 10.0,
+      "unit": "g"
+    },
+    {
+      "name": "davis",
+      "amount": 10.0,
+      "unit": "g"
+    },
+    {
+      "name": "popo",
+      "amount": 10.0,
+      "unit": "g"
+    },
+    {
+      "name": "basa",
+      "amount": 10.0,
+      "unit": "ml"
+    },
+    {
+      "name": "balls",
+      "amount": 10.0,
+      "unit": "unit"
+    },
+    {
+      "name": "koko chanel",
+      "amount": 10.0,
+      "unit": "unit"
+    }
+  ]
+}
